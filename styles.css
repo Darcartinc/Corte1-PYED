@@ -1,0 +1,71 @@
+p
+ {
+text-align: center;
+color:red;
+}
+#texto1 
+{
+color: rgb(93, 0, 133);
+font-family: 'Aboreto', cursive;
+font-family: 'Silkscreen', cursive;
+font-size: 1,5em;
+
+}
+#texto2{
+    color: rgb(0, 92, 0);
+    font-size: 2em;
+}
+.cuadro
+{
+    background-color: darkcyan;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+}
+
+*{
+    margin: 5px;
+    padding: 5px;
+}
+#cuadro1:hover{
+ background-color: yellow;
+}
+li:first-child{
+    color: orange;
+}
+#input1:focus{
+    background-color: rgb(241, 103, 188);
+}
+/* fuck */
+#id1{
+    background-color: rgba(2, 60, 25, 50);
+    
+}
+
+#id2{
+    background-color: #98F59A;
+}
+.id3{
+    padding: 30px;
+    margin: 10px;
+    display: block;
+}
+
+.contenedor{
+    width: 600px;
+    height: 372px;
+    border: 5px groove #132631;
+    background-image: url("mapache.jpg");
+    background-size: contain;
+    border-radius: 3em;
+}
+#textomascota{
+    color: rgb(233, 233, 233);
+    font-size: 3em;
+    text-align: center;
+
+}
+
+*{
+    font-size: 20px;
+}
