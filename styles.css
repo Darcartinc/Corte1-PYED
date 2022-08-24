@@ -123,20 +123,25 @@ li:first-child{
     background-image:url(./imagenes/robot.gif);
     height: 150px;
     width: 150px;
+    background-size: cover;
     animation-name:anibot;
-    animation-duration: 20s;
+    animation-duration: 10s;
     animation-iteration-count: infinite;
    
 }
 @keyframes anibot{
 
-    0%{   }
+    0%{   transform: translate(0px) rotate(0deg) scale(1); }
 
-    20%{  }
+    25%{ transform: translate(400px) rotate(360deg) scale(2);  }
 
-    40%{   }
-
+    50%{ transform: translate(400px,600px) rotate(0deg) scale(1);  }
     
+    75%{ transform: translate(0px,600PX) rotate(360deg) scale(1.5); }
+
+    100%{ transform: translate(0px,0px) rotate(0deg) scale(1); }
+
+
 
 
 }
