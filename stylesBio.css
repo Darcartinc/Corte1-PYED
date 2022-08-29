@@ -1,0 +1,139 @@
+#titulo
+{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: xxx-large;
+    font-family: 'EB Garamond', serif;
+    text-shadow: 4px 3px 10px rgba(30, 32, 30, 0.699)
+   
+}
+#titulo2
+{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-size: xxx-large;
+    margin: 0px 100px 30px 100px;
+    font-family: 'EB Garamond', serif;
+    text-shadow: 4px 3px 10px rgba(30, 32, 30, 0.699)
+   
+}
+
+#retrato{
+    background-image: url(./imagenes/retrato.jpg);
+    width: 500px;
+    height: 700px;
+    background-size: cover;
+    margin: auto;
+    border: 5px groove #132631;
+    float: center;
+    position: relative;
+    box-shadow: 4px 3px 10px rgb(0, 0 ,0 ,0.59);
+}
+.animacion1{
+    background-image: url(./imagenes/skull.png);
+    height: 80px;
+    width: 55px;
+    background-size: cover;
+    position:absolute;
+    
+    top: -90px;
+    bottom:0 ;
+    right:0 ;
+    left:-70px ;
+    animation-name:animacion1;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes animacion1{
+
+    0%{   transform: translate(0px) rotate(-15deg) scale(1); }
+
+    25%{ transform: translate(585px) rotate(45deg) scale(1);  }
+
+    50%{ transform: translate(585px,800px) rotate(135deg) scale(1);  }
+    
+    75%{ transform: translate(0px,800PX) rotate(225deg) scale(1); }
+
+    100%{ transform: translate(0px,0px) rotate(345deg) scale(1); }
+
+}
+
+
+
+#p1{
+    color: black;
+    font-size: large;
+    margin: 100px;
+     
+}
+
+#p2{
+    color: black;
+    font-size: large;
+    margin: 0px 100px 30px 100px;
+
+     
+}
+
+#p3{
+    color: black;
+    font-size: large;
+    margin: 0px 100px 30px 100px;
+
+     
+}
+#quote{
+    text-align: center;
+    font-size: x-large;
+
+}
+#quote2{
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+#foto{
+    width: 500px;
+    height: 350px;
+    margin: 0px 30px 0px 100px;
+    background-image: url(./imagenes/foto.jpg);
+    border: 5px groove #132631;
+    background-position: -170px 0px;
+    float: left;
+    box-shadow: 4px 3px 10px rgb(0, 0 ,0 ,0.59);
+}
+#foto2{
+    position: relative;
+    top: 0px;
+    bottom:0 ;
+    right:0 ;
+    left:30% ;
+    
+}
+
+#foto3{
+    width: 500px;
+    height: 350px;
+    margin: 0px 100px 0px 30px;
+    background: linear-gradient(90deg, rgba(36,0,0,0.5018382352941176) 0%, rgba(255,0,0,0.12368697478991597) 0%, rgba(255,114,0,0.1292892156862745) 22%, rgba(255,222,0,0.11528361344537819) 41%, rgba(14,231,6,0.11528361344537819) 62%, rgba(0,52,255,0.11808473389355745) 82%, rgba(255,0,254,0.10968137254901966) 100%), url(./imagenes/foto3.jpg);
+    border: 5px groove #132631;
+    background-position: 0px -50px;
+    background-size: cover;
+    float: right;
+    box-shadow: 4px 3px 10px rgb(0, 0 ,0 ,0.59);
+}
+.fijo{
+    width: 100px;
+    height: 210px;
+    background-image: url(./imagenes/botonestatito.jpg) ;
+    background-size: cover;
+    position:fixed;right: 0px;bottom: 0px;
+    
+}
+ul{
+    color: black;
+    font-size: large;
+    margin: 0px 100px 30px 100px;
+}
