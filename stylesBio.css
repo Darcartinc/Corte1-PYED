@@ -137,3 +137,103 @@ ul{
     font-size: large;
     margin: 0px 100px 30px 100px;
 }
+
+
+#skull{
+    background-image: url(./imagenes/calavera.gif);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    float: center;
+    position: relative;
+    margin: auto;
+
+    animation-name:calavera;
+    animation-duration: 3.5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes calavera{
+
+    0%{   transform: translate(0) rotate(0deg) scale(1); }
+
+    95%{ transform: translate(0) rotate(0deg) scale(1.4);  }
+
+    100%{ transform: translate(0) rotate(0deg) scale(1); }
+
+}
+
+
+#bone{
+    background-image: url(./imagenes/bone.PNG);
+    width: 80px;
+    height: 60px;
+    background-size: contain    ;
+    float: center;
+    position: absolute;
+    margin: auto;
+    animation-name:bone;
+    animation-duration: 3.5s;
+    animation-iteration-count: infinite;
+    
+}
+
+@keyframes bone{
+
+    0%{   transform: translate(850px,-135px) rotate(0deg) scale(1); }
+
+    95%{ transform: translate(600px,-135px) rotate(0deg) scale(1);  }
+
+    100%{ transform: translate(850px,-135px) rotate(0deg) scale(1); }
+
+}
+#bone2{
+    background-image: url(./imagenes/bone.PNG);
+    width: 80px;
+    height: 60px;
+    background-size: contain    ;
+    float: center;
+    position: absolute;
+    margin: auto;
+    animation-name:bone2;
+    animation-duration: 3.5s;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes bone2{
+
+    0%{   transform: translate(1000px,-135px) rotate(90deg) scale(-1); }
+
+    95%{ transform: translate(1290px,-135px) rotate(90deg) scale(-1);  }
+
+    100%{ transform: translate(1000px,-135px) rotate(90deg) scale(-1); }
+
+
+
+
+
+}
+#cargando{
+    background-color: rgb(11, 10, 14);
+    width: 100px;
+    height: 5px;
+    margin: 0px 960px 100px 930px;
+    float: center;
+    position: relative;
+    
+    
+
+    
+    animation-name:cargando;
+    animation-duration: 3.5s;
+    animation-iteration-count: infinite;
+}
+@keyframes cargando{
+
+    0%{   transform: translate(0px) rotate(0) scale(1); }
+
+    95%{ transform: translate(0) rotate(0) scale(6 , 1.2);  }
+
+    100%{ transform: translate(0) rotate(0) scale(1); }
+
+}
