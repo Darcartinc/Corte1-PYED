@@ -209,10 +209,13 @@ li:first-child{
     font-style: italic;
     font-weight: 200;
 }
+
 .ciudades{
     list-style-type:lower-alpha;
 
 }
+
+
 #customers{
     border-collapse:collapse;
     width:100%;
@@ -230,4 +233,15 @@ li:first-child{
     text-align: left;
     background-color: #04AA6D;
     color: white;
+}
+
+#jugador{
+color: blue;
+}
+
+.player{
+color: red;
+}
+h6{
+    color: yellow;
 }
