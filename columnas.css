@@ -1,18 +1,96 @@
-.container{
-    background-color: aquamarine;
+.container {
+    background-color: rgb(255, 255, 255);
     display: flex;
-    flex-flow: row wrap;
-    justify-content:center;
-    width: 300px;
-    height: 200px;
-    align-content: space-between;
-
-    
-
+    justify-content: space-evenly;
+    width: auto;
+    height: 310px;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+    flex-direction: row;
+    align-content: center;
 }
 .item{
     background-color: gray;
-    height: 50px;
-    width: 50px;
-    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    border: 2px solid black;
+}
+
+.containert {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    height: 90px;
+    flex-wrap: nowrap;
+    align-items: center;
+    flex-direction: row;
+    align-content: center;
+}
+.itemt {
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+    width: 400px;
+    text-align: center;
+    
+   
+}
+#text1{
+    text-align: center;
+   
+}
+.item1{
+    background-image: url(./imagenes/fotos/1.jpg);
+    background-size: cover;
+    background-position: 0px -80px;
+
+    
+}
+.item2{
+    background-image: url(./imagenes/fotos/2.jpg);
+    background-size: cover;
+    background-position: 0px -80px;
+
+}
+.item3{
+    background-image: url(./imagenes/fotos/3.jpg);
+    background-size: cover;
+    background-position: 0px -80px;
+
+}
+.item4{
+    background-image: url(./imagenes/fotos/4.jpg);
+    background-size: cover;
+    background-position: 0px -30px;
+
+}
+.item5{
+    background-image: url(./imagenes/fotos/5.jpg);
+    background-size: cover;
+    background-position: 0px -30px;
+
+}
+.item6{
+    background-image: url(./imagenes/fotos/6.jpg);
+    background-size: cover;
+    background-position: 0px -30px;
+
+}
+.item7{
+    background-image: url(./imagenes/fotos/7.jpg);
+    background-size: cover;
+    background-position: 0px -30px;
+
+}
+.item8{
+    background-image: url(./imagenes/fotos/8.jpg);
+    background-size: cover;
+    background-position: 0px -70px;
+
+}
+.item9{
+    background-image: url(./imagenes/fotos/9.jpg);
+    background-size: cover;
+    background-position: 0px -50px;
+
 }
