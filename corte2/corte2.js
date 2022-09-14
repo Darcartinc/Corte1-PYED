@@ -10,5 +10,13 @@ document.getElementById("cuadro1").innerHTML=nombre;
  let edadanterior =Number(age)-5;
  let edadtriple =Number(age)*3
  let edadmitad =Number(age)/2
+
+ if (age >= 25 ){
+    alert("USTED ESTA JOVEN!!!")
+ }
+ else {
+    alert("USTED ESTA VIEJO!!!")
+ };
  alert(name + " tu edad en 10 años sera  " +edadfutura + ", hace 5 años era " +edadanterior + ", el triple es "+ edadtriple +" y la mitad es "+edadmitad );
+ 
  
