@@ -1,0 +1,171 @@
+{
+    "nombre":"Hellenic_football_federation",
+    "pais":"Grecia",
+    "apodos":["los helenos","los filosofos","los dioses"],
+    "colores":["Azul","Blanco"],
+    "titulos":[
+        {
+            "Titulo":"Campeonato_de_europa",
+            "año":"2004"
+        },
+        {
+            "Titulo":"Mejor_Equipo_Del_Año",
+            "año":"2004"
+        },
+        {
+            "Titulo":"Trofeo FIFA Fair Play",
+            "año":"2005"
+        },
+        {
+            "Titulo":"Premios Laureus",
+            "año":"2005"
+        }
+    ],
+
+    "capitan":"Vasilis_Torosidis",
+    "entrenador":"Gus Poyet",
+    "escudo":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Coat_of_arms_of_Greece_%281924%E2%80%931935%29.svg",
+    "abreviacion":"GRC",
+    "Goleador":[
+        {
+            "Nombre":"Nikolaos Anastopoulos",
+            "goles":"29"
+        }
+    ],
+
+    "estadio":[
+        {
+            "Nombre":"Estadio Olímpico de Atenas",
+            "Apodo":"Spyros Louis",
+            "Locacion":"Atenas",
+            "Capacidad":"69.618"
+        }
+    ],
+
+    "Jugadores":[
+        {
+            "Nombre":"Alexandros ",
+            "Apellido":"Paschalakis",
+            "edad":"33",
+            "altura":"1,97",
+            "Ciudad de nacimiento":"Atenas",
+            "posicion":"Arquero",
+            "Club":"PAOK de Salónica F. C",
+            "Numero":"12"
+        },
+
+        {
+            "Nombre":"Michalis  ",
+            "Apellido":"Bakakis",
+            "edad":"31",
+            "altura":"1,74",
+            "Ciudad de nacimiento":"Agrinio",
+            "posicion":"defensa",
+            "Club":" Panetolikos FC",
+            "Numero":"2"
+        },
+        {
+            "Nombre":"Pantelis  ",
+            "Apellido":"Hatzidiakos",
+            "edad":"25",
+            "altura":"1,85",
+            "Ciudad de nacimiento":"Rodas",
+            "posicion":"defensa",
+            "Club":" AZ Alkmaar ",
+            "Numero":"17"
+        },
+        {
+            "Nombre":"Dimitrios",
+            "Apellido":"Siovas",
+            "edad":"34",
+            "altura":"1,92",
+            "Ciudad de nacimiento":"Dramas",
+            "posicion":"defensa",
+            "Club":" Fortuna Sittard ",
+            "Numero":"5"
+        },
+        {
+            "Nombre":"Kostas ",
+            "Apellido":"Stafylidis",
+            "edad":"28",
+            "altura":"1,78",
+            "Ciudad de nacimiento":"salonica",
+            "posicion":"defensa",
+            "Club":" VfL Bochum ",
+            "Numero":"3"
+        },
+        {
+            "Nombre":"Dimitris ",
+            "Apellido":"Kourbelis",
+            "edad":"28",
+            "altura":"1,82",
+            "Ciudad de nacimiento":" Korakovouni",
+            "posicion":"centrocampistas",
+            "Club":" Panathinaikos Fútbol Club ",
+            "Numero":"21"
+        },
+        {
+            "Nombre":"Andreas ",
+            "Apellido":"Bouchalakis",
+            "edad":"29",
+            "altura":"1,88",
+            "Ciudad de nacimiento":"Heraclion",
+            "posicion":"centrocampistas",
+            "Club":"Olympiacos Fútbol Club ",
+            "Numero":"21"
+        },
+        {
+            "Nombre":"Dimitris ",
+            "Apellido":"Limnios",
+            "edad":"24",
+            "altura":"1,78",
+            "Ciudad de nacimiento":"Volos",
+            "posicion":"centrocampistas",
+            "Club":"F. C. Colonia ",
+            "Numero":"18"
+        },
+
+
+
+
+
+
+
+        {
+            "Nombre":"Andreas ",
+            "Apellido":"Bouchalakis",
+            "edad":"29",
+            "altura":"1,88",
+            "Ciudad de nacimiento":"Heraclion",
+            "posicion":"centrocampistas",
+            "Club":"Olympiacos Fútbol Club ",
+            "Numero":"21"
+        },
+
+
+        {
+            "Nombre":"Andreas ",
+            "Apellido":"Bouchalakis",
+            "edad":"29",
+            "altura":"1,88",
+            "Ciudad de nacimiento":"Heraclion",
+            "posicion":"centrocampistas",
+            "Club":"Olympiacos Fútbol Club ",
+            "Numero":"21"
+        },
+
+
+        {
+            "Nombre":"Andreas ",
+            "Apellido":"Bouchalakis",
+            "edad":"29",
+            "altura":"1,88",
+            "Ciudad de nacimiento":"Heraclion",
+            "posicion":"centrocampistas",
+            "Club":"Olympiacos Fútbol Club ",
+            "Numero":"21"
+        }
+
+    ]
+
+}
