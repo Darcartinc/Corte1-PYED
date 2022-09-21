@@ -124,46 +124,35 @@
             "Club":"F. C. Colonia ",
             "Numero":"18"
         },
-
-
-
-
-
-
-
         {
-            "Nombre":"Andreas ",
-            "Apellido":"Bouchalakis",
-            "edad":"29",
-            "altura":"1,88",
-            "Ciudad de nacimiento":"Heraclion",
+            "Nombre":"José  ",
+            "Apellido":"Gonçalves",
+            "edad":"34",
+            "altura":"1,82",
+            "Ciudad de nacimiento":"Lisboa",
             "posicion":"centrocampistas",
-            "Club":"Olympiacos Fútbol Club ",
-            "Numero":"21"
+            "Club":"FC Copenhague  ",
+            "Numero":"8"
         },
-
-
         {
-            "Nombre":"Andreas ",
-            "Apellido":"Bouchalakis",
-            "edad":"29",
-            "altura":"1,88",
-            "Ciudad de nacimiento":"Heraclion",
-            "posicion":"centrocampistas",
-            "Club":"Olympiacos Fútbol Club ",
-            "Numero":"21"
+            "Nombre":"Efthimis  ",
+            "Apellido":"Koulouris",
+            "edad":"26",
+            "altura":"1,80",
+            "Ciudad de nacimiento":"Skydra",
+            "posicion":"Delantero",
+            "Club":"LASK Linz",
+            "Numero":"9"
         },
-
-
         {
-            "Nombre":"Andreas ",
-            "Apellido":"Bouchalakis",
+            "Nombre":"Anastasios ",
+            "Apellido":"Bakasetas ",
             "edad":"29",
-            "altura":"1,88",
-            "Ciudad de nacimiento":"Heraclion",
+            "altura":"1,81",
+            "Ciudad de nacimiento":"Corinto",
             "posicion":"centrocampistas",
-            "Club":"Olympiacos Fútbol Club ",
-            "Numero":"21"
+            "Club":"Trabzonspor",
+            "Numero":"14"
         }
 
     ]
