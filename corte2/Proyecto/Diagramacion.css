@@ -88,6 +88,47 @@ footer {
     margin:0px 20px;
 }
 
+
+#aside{
+    text-align: center;
+    width: 26%;
+    height: 140%;
+    margin: 290px 178px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 4px rgba(95, 95, 95, 0.29);
+}
+
+#titulo{
+    height: 70px;
+    width: auto;
+    margin: 20px 20px 20px 210px;
+    font-size: 50px;
+    
+}
+
+
+#titulito{
+
+font-size: xx-large;
+font-style: initial;
+}
+#titulitos{
+    margin: 25px 45px 25px 45px;
+    font-size: large;
+    font-style: initial;
+    text-align: left;
+    }
+
+#cuerpito{
+    margin: 15px 45px 15px 45px;
+font-size: medium;
+text-align: left;
+}
 .item1{
     background-image: url(./Imagenes/p1.jpeg);
     background-size: cover;
@@ -124,3 +165,4 @@ footer {
     background-size: cover;
     background-position: 0px -90px;
 }
+
