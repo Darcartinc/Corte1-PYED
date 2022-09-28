@@ -17,6 +17,9 @@ margin: auto;
     padding: 0px 0px;
     background-size: cover;
 }
+li a {
+    text-decoration: none;
+}
 
 ul {
     list-style-type: none;
