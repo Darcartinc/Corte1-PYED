@@ -5,6 +5,7 @@ function convertirTexto()
   contenedor.innerHTML=mayusculas(texto);
 
   console.log ("longitug",contarLongitud(texto));
+  console.log ("tercerCaracter",obtenerCaracter(texto,2));
 }
 
 function mayusculas(txt)
@@ -15,5 +16,8 @@ function mayusculas(txt)
 
 function contarLongitud(){
   let texto=document.querySelector("#texto").value ;
-  return texto.length
+  return texto.length;
+}
+function obtenerCaracter(texto,posicion){
+  return texto.charAt(posicion);
 }
