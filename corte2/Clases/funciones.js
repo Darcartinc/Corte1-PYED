@@ -6,6 +6,9 @@ function convertirTexto()
 
   console.log ("longitug",contarLongitud(texto));
   console.log ("tercerCaracter",obtenerCaracter(texto,2));
+  console.log ("extraccion",extraer(texto));
+  console.log("reemplazar", reemplazar(texto));
+  console.log("palabras",dividir(texto));
 }
 
 function mayusculas(txt)
@@ -19,5 +22,19 @@ function contarLongitud(){
   return texto.length;
 }
 function obtenerCaracter(texto,posicion){
+  if (texto.charAt(posicion)== ""){
+    return "no existe ";
+  }
+  else{
   return texto.charAt(posicion);
+  }
+}
+function extraer(texto){
+  return texto.substring(2,5);
+}
+function reemplazar(texto){
+  return texto.replace("martes","viernes")
+}
+function dividir(texto){
+  return texto.split(" ")
 }
