@@ -62,7 +62,13 @@ function buscarAnimales(){
 
     let ObjetoAnimales= document.querySelector.value ;
     let BusquedaAnimal= document.querySelector("#buscador").value
+    let acumulador="";
     animales2.forEach(animal => {
-        
+        if(animal.Nombre.startsWith(BusquedaAnimal) && BusquedaAnimal!==""){
+
+            acumulador=acumulador+`<img src="${animal.imagen}" width="400"/><h3>${animal.Nombre}</h3>`
+
+        }
+
     });
 }
