@@ -33,7 +33,10 @@ li{
     padding: 0.5em 20px;
     font-size: larger;
 }
-
+li a {
+    text-decoration: none;
+    color: #000;
+}
 
 .container {
     background-color: rgb(255, 255, 255);

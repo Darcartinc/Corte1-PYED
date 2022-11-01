@@ -34,7 +34,10 @@ li{
     font-size: larger;
 }
 
-
+li a {
+    text-decoration: none;
+    color: #000;
+} 
 .container {
     background-color: rgb(255, 255, 255);
     display: flex;
