@@ -1,6 +1,11 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
+//rutas
+import { app_routing } from "./app.routes";
+
+//componentes
+
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
@@ -22,7 +27,8 @@ import { FormularioComponent } from './components/formulario/formulario.componen
     FormularioComponent,
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    app_routing 
   ],
   providers: [],
   bootstrap: [AppComponent]
