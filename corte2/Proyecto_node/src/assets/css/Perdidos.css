@@ -78,6 +78,15 @@ li a {
     
    
 }
+.itemtd {
+    background-color: rgb(255, 255, 255);
+    margin: 199px 70px;
+    height: 80px;
+    width: 400px;
+    text-align: left;
+    
+   
+}
 footer {
     background: rgb(255, 181, 43);
     width: 1550px;

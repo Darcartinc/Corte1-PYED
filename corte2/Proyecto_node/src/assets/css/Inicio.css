@@ -61,7 +61,7 @@ li{
 }
 
 
-.itemt {
+.itemt1 {
     background-color: rgb(255, 255, 255);
     margin: 240px 70px;
     height: 80px;
@@ -108,10 +108,10 @@ footer {
     text-align: left;
     
 }
-#titulo2{
+#titulo3{
     height: 70px;
     width: auto;
-    margin: 20px 20px 20px 0px;
+    margin: 0px 20px 20px 0px;
     font-size: 50px;
     text-align: left;
     
