@@ -8,15 +8,6 @@ margin: auto;
 
 
 }
-#logodiv{
-    background-image:url(./Imagenes/LOGO.png) ;
-    display: block;
-    width: 230px;
-    height: 130px;
-    margin: 0px 150px;
-    padding: 0px 0px;
-    background-size: cover;
-}
 
 ul {
     list-style-type: none;
