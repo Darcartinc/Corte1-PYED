@@ -131,40 +131,5 @@ margin: 15px 35px 15px 35px;
 font-size: medium;
 text-align: left;
 }
-.item1{
-    background-image: url(./Imagenes/p7.jpeg);
-    background-size: cover;
-    background-position: 0px -60px;
 
-    
-}
-.item2{
-    background-image: url(./Imagenes/p8.jpeg);
-    background-size: cover;
-    background-position: 0px 0px;
-
-}
-.item3{
-    background-image: url(./Imagenes/p9.jpeg);
-    background-size: cover;
-    background-position: 0px -50px;
-
-}
-.item4{
-    background-image: url(./Imagenes/p10.jpg);
-    background-size: cover;
-    background-position: 0px -120px;
-
-}
-.item5{
-    background-image: url(./Imagenes/p11.jpeg);
-    background-size: cover;
-    background-position: 0px -130px;
-
-}
-.item6{
-    background-image: url(./Imagenes/p12.jpeg);
-    background-size: cover;
-    background-position: 0px -140px;
-}
 

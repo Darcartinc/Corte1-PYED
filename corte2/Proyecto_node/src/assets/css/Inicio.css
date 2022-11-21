@@ -9,7 +9,7 @@ margin: auto;
 
 }
 #logodiv{
-    background-image:url(./Imagenes/LOGO.png) ;
+    background-image:url(./img/LOGO.png) ;
     display: block;
     width: 230px;
     height: 130px;
@@ -136,27 +136,124 @@ font-size: medium;
 text-align: left;
 }
 .item1{
-    background-image: url(./Imagenes/p13.png);
+    background-image: url(./img/p13.png);
     background-size: cover;
     background-position: 0px -30px;
 
     
 }
 .item2{
-    background-image: url(./Imagenes/p14.png);
+    background-image: url(./img/p14.png);
     background-size: cover;
     background-position: 0px -30px;
 
 }
 .item3{
-    background-image: url(./Imagenes/p15.png);
+    background-image: url(./img/p15.png);
     background-size: cover;
     background-position: 0px -50px;
 
 }
 .item4{
-    background-image: url(./Imagenes/p16.png);
+    background-image: url(./img/p16.png);
     background-size: cover;
     background-position: 0px -60px;
 
+}
+.item5{
+    background-image: url(./img/p7.jpeg);
+    background-size: cover;
+    background-position: 0px -60px;
+
+    
+}
+.item6{
+    background-image: url(./img/p8.jpeg);
+    background-size: cover;
+    background-position: 0px 0px;
+
+}
+.item7{
+    background-image: url(./img/p9.jpeg);
+    background-size: cover;
+    background-position: 0px -50px;
+
+}
+.item8{
+    background-image: url(./img/p10.jpg);
+    background-size: cover;
+    background-position: 0px -120px;
+
+}
+.item9{
+    background-image: url(./img/p11.jpeg);
+    background-size: cover;
+    background-position: 0px -130px;
+
+}
+.item10{
+    background-image: url(./img/p12.jpeg);
+    background-size: cover;
+    background-position: 0px -140px;
+}
+.item11{
+    background-image: url(./img/p1.jpeg);
+    background-size: cover;
+    background-position: 0px -30px;
+
+    
+}
+.item12{
+    background-image: url(./img/p2.jpeg);
+    background-size: cover;
+    background-position: 0px -120px;
+
+}
+.item13{
+    background-image: url(./img/p3.jpeg);
+    background-size: cover;
+    background-position: 0px -50px;
+
+}
+.item14{
+    background-image: url(./img/p4.jpeg);
+    background-size: cover;
+    background-position: 0px -60px;
+
+}
+.item15{
+    background-image: url(./img/p5.jpg);
+    background-size: cover;
+    background-position: 0px 0px;
+
+    
+}
+.item16{
+    background-image: url(./img/p6.jpg);
+    background-size: cover;
+    background-position: 0px -90px;
+
+}
+.item17{
+    background-image: url(./img/p17.jpg);
+    background-size: cover;
+    background-position: 0px 0px;
+
+}
+.item18{
+    background-image: url(./img/p18.jpg);
+    background-size: cover;
+    background-position: 0px -0px;
+
+}
+.item19{
+    background-image: url(./img/p19.png);
+    background-size: cover;
+    background-position: 0px 0px;
+
+}
+.item20{
+    background-image: url(./img/p20.jpg);
+    background-size: cover;
+    background-position: 0px 0px;
 }
