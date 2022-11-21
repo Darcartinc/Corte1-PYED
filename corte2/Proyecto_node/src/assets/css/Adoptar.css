@@ -8,7 +8,7 @@ margin: auto;
 
 
 }
-#logodiv{
+#logodivAdoptar{
     background-image:url(./Imagenes/LOGO.png) ;
     display: block;
     width: 230px;
@@ -38,7 +38,7 @@ li a {
     color: #000;
 }
 
-.container {
+.containerAdoptar {
     background-color: rgb(255, 255, 255);
     display: flex;
     margin: 0px 130px;
@@ -50,7 +50,7 @@ li a {
     flex-direction: row;
     align-content: center;
 }
-.item{
+.itemAdoptar{
     background-color: gray;
     margin: 0px 70px;
     height: 300px;
@@ -58,7 +58,7 @@ li a {
     border: 2px solid black;
 }
 
-.containert {
+.containertAdoptar {
     display: flex;
     margin: 20px 130px;
     justify-content: flex-start;
@@ -69,7 +69,7 @@ li a {
     flex-direction: row;
     align-content: center;
 }
-.itemt {
+.itemtAdoptar {
     background-color: rgb(255, 255, 255);
     margin: 0px 70px;
     height: 80px;
@@ -78,7 +78,7 @@ li a {
     
    
 }
-footer {
+footerAdoptar {
     background: rgb(255, 181, 43);
     width: 1550px;
     height: 80px;
@@ -87,12 +87,12 @@ footer {
     font-size: small;
     text-align: right;
 }
-#finalt{
+#finaltAdoptar{
     margin:0px 20px;
 }
 
 
-#aside{
+#asideAdoptar{
     text-align: center;
     width: 26%;
     height: 140%;
@@ -106,7 +106,7 @@ footer {
     box-shadow: 0px 0px 4px rgba(95, 95, 95, 0.29);
 }
 
-#titulo{
+#tituloAdoptar{
     height: 70px;
     width: auto;
     margin: 20px 20px 20px 210px;
@@ -115,55 +115,55 @@ footer {
 }
 
 
-#titulito{
+#titulitoAdoptar{
 
 font-size: xx-large;
 font-style: initial;
 }
-#titulitos{
+#titulitosAdoptar{
     margin: 25px 45px 25px 45px;
     font-size: large;
     font-style: initial;
     text-align: left;
     }
 
-#cuerpito{
+#cuerpitoAdoptar{
     margin: 15px 45px 15px 45px;
 font-size: medium;
 text-align: left;
 }
-.item1{
+.item1Adoptar{
     background-image: url(./Imagenes/p1.jpeg);
     background-size: cover;
     background-position: 0px -60px;
 
     
 }
-.item2{
+.item2Adoptar{
     background-image: url(./Imagenes/p2.jpeg);
     background-size: cover;
     background-position: 0px -90px;
 
 }
-.item3{
+.item3Adoptar{
     background-image: url(./Imagenes/p3.jpeg);
     background-size: cover;
     background-position: 0px -50px;
 
 }
-.item4{
+.item4Adoptar{
     background-image: url(./Imagenes/p4.jpeg);
     background-size: cover;
     background-position: 0px -60px;
 
 }
-.item5{
+.item5Adoptar{
     background-image: url(./Imagenes/p5.jpg);
     background-size: cover;
     background-position: 0px 0px;
 
 }
-.item6{
+.item6Adoptar{
     background-image: url(./Imagenes/p6.jpg);
     background-size: cover;
     background-position: 0px -90px;
