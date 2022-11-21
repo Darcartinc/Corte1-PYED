@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Entrega_final": {
+    "Proyecto_node": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/entrega-final",
+            "outputPath": "dist/proyecto-node",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "Entrega_final:build:production"
+              "browserTarget": "Proyecto_node:build:production"
             },
             "development": {
-              "browserTarget": "Entrega_final:build:development"
+              "browserTarget": "Proyecto_node:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -71,7 +71,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "Entrega_final:build"
+            "browserTarget": "Proyecto_node:build"
           }
         },
         "test": {
