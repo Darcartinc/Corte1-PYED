@@ -21,4 +21,4 @@ PerdidosComponent
      { path: '**', pathMatch: 'full', redirectTo: '' } 
     ]; 
 
-export const app_routing = RouterModule.forRoot(app_routes,{useHash:true}); 
+export const app_routing = RouterModule.forRoot(app_routes); 
