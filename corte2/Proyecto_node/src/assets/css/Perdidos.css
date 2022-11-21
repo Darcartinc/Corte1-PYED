@@ -38,18 +38,7 @@ li a {
     text-decoration: none;
     color: #000;
 }
-.container {
-    background-color: rgb(255, 255, 255);
-    display: flex;
-    margin: 0px 130px;
-    justify-content: flex-start;
-    width: auto;
-    height: 310px;
-    flex-wrap: nowrap;
-    align-items: flex-end;
-    flex-direction: row;
-    align-content: center;
-}
+
 .item{
     background-color: gray;
     margin: 0px 70px;
