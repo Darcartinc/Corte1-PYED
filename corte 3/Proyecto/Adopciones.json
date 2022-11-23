@@ -1,0 +1,88 @@
+{
+    "Nombre":"Nala",
+    "Tipo":"Perro",
+    "Raza":"Meztizo",
+    "Peso":17,
+    "Color":"Negro",
+    "Ciudad":"Bogota"
+}
+{
+    "Nombre":"Jade",
+    "Tipo":"Perro",
+    "Raza":"Meztizo",
+    "Peso":12,
+    "Color":"Negro y beige ",
+    "Ciudad":"Bogota"
+}
+{
+    "Nombre":"Ben",
+    "Tipo":"Perro",
+    "Raza":"Meztizo",
+    "Peso":14,
+    "Color":"Negro",
+    "Ciudad":"Bogota"
+}
+{
+    "Nombre":"Sky",
+    "Tipo":"Perro",
+    "Raza":"Meztizo",
+    "Peso":20,
+    "Color":"Negro",
+    "Ciudad":"Bogota"
+}
+{
+    "Nombre":"Florentina",
+    "Tipo":"Gato",
+    "Raza":"Meztiza",
+    "Peso":8,
+    "Color":"Negro y amarillo",
+    "Ciudad":"Madrid"
+}
+{
+    "Nombre":"Alaska",
+    "Tipo":"Perro",
+    "Raza":"Golden retriever",
+    "Peso":30,
+    "Color":"Amarillo",
+    "Ciudad":"Bogota"
+}
+{
+    "Nombre":"Bimba",
+    "Tipo":"Perro",
+    "Raza":"Meztiza",
+    "Peso":16,
+    "Color":"Negro y amarillo",
+    "Ciudad":"Bogota"
+}
+{
+    "Nombre":"Kira",
+    "Tipo":"Perro",
+    "Raza":"Golden retriever",
+    "Peso":30,
+    "Color":"Amarillo",
+    "Ciudad":"Bogota"
+}
+{
+    "Nombre":"Dante",
+    "Tipo":"Perro",
+    "Raza":"Dalmata",
+    "Peso":21,
+    "Color":"Blanco y negro",
+    "Ciudad":"Bogota"
+}
+{
+    "Nombre":"Toy",
+    "Tipo":"Gato",
+    "Raza":"Siamese",
+    "Peso":3,
+    "Color":"Blanco y gris",
+    "Ciudad":"Bogota"
+}
+{
+    "Nombre":"Nata",
+    "Tipo":"Gato",
+    "Raza":"Meztiza",
+    "Peso":5,
+    "Color":"Gris",
+    "Ciudad":"Tabio"
+}
